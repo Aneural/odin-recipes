@@ -1,4 +1,4 @@
-# What it's this about?
+# What is this about?
 This repository is to put on practice the things that i have learned from doing the [Odin project](https://www.theodinproject.com) course.
 
 ## HTML Project
